@@ -1,4 +1,4 @@
-# social-media-platform
+# "Moody" Blog Platform
 
 This is a social media platform for people to share their mood and moment. 
 
